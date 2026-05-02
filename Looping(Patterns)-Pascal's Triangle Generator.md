@@ -47,4 +47,4 @@ for i in range(1, rows+1):
 <img width="792" height="825" alt="image" src="https://github.com/user-attachments/assets/18b45deb-6630-459f-8fe4-3d28dbcc6ffc" />
 
 ## Result
-Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully.
+Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully .
