@@ -32,4 +32,4 @@ else:
 <img width="972" height="240" alt="image" src="https://github.com/user-attachments/assets/d43345cb-aa21-49e0-90e4-61d4b2f71c57" />
 
 ## Result
-Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
+Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully .
